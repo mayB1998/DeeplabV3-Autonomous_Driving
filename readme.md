@@ -65,6 +65,8 @@ The above image shows the output achieved and the corresponding label, along wit
 
 Validation and Training curve for the model trained
 
+[![Demo Video](images/data_sample.png)](output/stuttgart_1024_512_360_640_DeepLabHQ_output.avi)
+
 **## Additional Information**
 
 * Datasets used:  
